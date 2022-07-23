@@ -4,3 +4,6 @@ git commit -m "first commit"
 git branch -M gitbranch
 git remote add origin <central Github Repo URL>
 git push -u gitbranch
+git clone <URL>
+git pull
+git checkout <URL>
